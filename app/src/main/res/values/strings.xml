@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string-array name="language">
+        <item>Pilih Bahasa</item>
+        <item>en</item>
+        <item>id</item>
+        <item>af</item>
+        <item>am</item>
+        <item>ar</item>
+        <item>az</item>
+        <item>fr</item>
+        <item>bg</item>
+        <item>bn</item>
+        <item>bs</item>
+        <item>ca</item>
+        <item>ceb</item>
+        <item>co</item>
+        <item>cs</item>
+        <item>cy</item>
+        <item>da</item>
+        <item>de</item>
+        <item>el</item>
+        <item>eo</item>
+        <item>es</item>
+        <item>et</item>
+        <item>hr</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>jw</item>
+        <item>ko</item>
+        <item>ms</item>
+        <item>my</item>
+        <item>pt</item>
+        <item>ro</item>
+        <item>ko</item>
+        <item>ru</item>
+        <item>su</item>
+        <item>th</item>
+        <item>tl</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>vi</item>
+        <item>zh</item>
+    </string-array>
+</resources>
